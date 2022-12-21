@@ -1,1 +1,2 @@
-# tech-savvy-website
+# TechSavvy Website
+A blog site about technology
